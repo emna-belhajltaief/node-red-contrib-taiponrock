@@ -1,0 +1,23 @@
+{
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "node-red": {
+  "nodes": {
+    "taiponrock": "node.js"
+          }
+  },
+  "description": "test node",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emna-belhajltaief/node-red-contrib-taiponrock.git"
+  },
+  "keywords": [
+    "node-red"
+  ],
+  "author": "Emna",
+  "license": "Apache-2.0"
+}
